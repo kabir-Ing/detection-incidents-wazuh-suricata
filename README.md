@@ -93,4 +93,4 @@ Le document technique présente l'architecture, les configurations réalisées, 
 
 ---
 
-**KABIR IT | Réseaux • Systèmes • Cybersécurité • Sécurité défensive**
+**Apprendre • Pratiquer • Documenter • Sécuriser**
