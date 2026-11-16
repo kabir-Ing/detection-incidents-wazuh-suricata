@@ -38,7 +38,7 @@ L'environnement de test repose sur une infrastructure réseau segmentée compren
 
 La plateforme Wazuh centralise les événements des agents et les alertes réseau produites par Suricata.
 
-![Architecture du projet](architecture.png)
+![Architecture du projet](architecture.jpg)
 
 ---
 
