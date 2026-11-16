@@ -10,7 +10,7 @@
 
 ## 📌 Présentation du projet
 
-Ce projet, réalisé dans le cadre de mon mémoire de fin de formation en cybersécurité, porte sur la conception et le déploiement d'une solution de détection et de réponse aux incidents de sécurité au sein d'un environnement réseau d'entreprise simulé.
+Ce projet porte sur la conception et le déploiement d'une solution de détection et de réponse aux incidents de sécurité au sein d'une infrastructure réseau d'entreprise simulée.
 
 L'approche repose sur l'intégration de deux solutions open source complémentaires :
 
